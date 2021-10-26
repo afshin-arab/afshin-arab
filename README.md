@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in implementing machine learning models on data and get insights from them!
 - 🌱 I’m currently learning GANs and expanding my knowledge in deep learning area.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: afshinarab@outlook.com
 
 <h3 align="left">Connect with me:</h3>
