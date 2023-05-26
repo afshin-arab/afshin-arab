@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afshin</h1>
-<h3 align="center">A passionate data scientist based in Philly!</h3>
+<h3 align="center">A passionate data scientist/engineer based in Philly!</h3>
 
 - 👀 I’m interested in implementing machine learning models on data and get insights from them!
 - 🌱 I’m currently learning GANs and expanding my knowledge in deep learning area.
