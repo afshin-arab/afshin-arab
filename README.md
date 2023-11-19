@@ -2,8 +2,8 @@
 <h3 align="center">A passionate data scientist/engineer based in Philly!</h3>
 
 - ⭐ Well-knowledged in Microsoft Power and Fabric platforms and Microsoft Azure cloud services. Developed automation frameworks on Azure DevOps, LogicApps, PowerFlow, PowerApps, and Powershell scripts to help users and managers reduce manual workload drastically. 
-- 👀 I’m interested in implementing machine learning models on data and getting insights from them! I’m currently learning GANs and expanding my knowledge in the deep learning area.
-- 🌱 
+- 👀 I’m interested in implementing ETL solutions and automation on data to ease the workflow and to get the most out of the available resources! 
+- 🌱 I’m currently learning and expanding my knowledge in the AI and deep learning area.
 - 📫 How to reach me: afshinarab@outlook.com
 
 <h3 align="left">Connect with me:</h3>
