@@ -34,8 +34,8 @@
 </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afshin-arab&show_icons=true&locale=en&layout=compact" alt="ayush714" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afshin-arab&label=Profile%20views&color=0e75b6&style=flat" alt="ayush714" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afshin-arab&show_icons=true&locale=en&layout=compact" alt="afshin-arab" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afshin-arab&label=Profile%20views&color=0e75b6&style=flat" alt="afshin-arab" /> </p>
 <!---
 afshin-arab/afshin-arab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
